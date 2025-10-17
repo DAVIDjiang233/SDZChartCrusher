@@ -3,7 +3,7 @@
 
 ~~虽然现在估计没人写石墩子谱了（~~
 
-有关游戏本体的说明：[坏枪先生的文档](https://mixbadgun.otm.ink/)<br>
+游戏作者：坏枪    [有关游戏本体的说明](https://mixbadgun.otm.ink/)<br>
 
 # 操作说明
 
