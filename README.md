@@ -63,5 +63,8 @@
 - **频率**：每分钟自动保存一次
 - **位置**：`%USERPROFILE%\AppData\Local\sdzchartcrusher\autosave.sdz`
 
+# 其它
 
+## 特别感谢
+[XIyi_Lizard](https://space.bilibili.com/3546564398155882/dynamic)
 
